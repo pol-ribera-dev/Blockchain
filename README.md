@@ -1,1 +1,1 @@
-Creació de una blockchain
+Creación de una blockchain.
