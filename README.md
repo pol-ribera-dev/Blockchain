@@ -1,1 +1,1 @@
-Creación de una blockchain.
+This project implements a simplified blockchain system in Python, featuring RSA key generation, digital signatures, and transaction verification. It uses SHA-256 hashing and a proof-of-work mechanism to create and validate blocks linked in a secure blockchain. The implementation demonstrates core cryptographic and blockchain concepts, including RSA signing with CRT optimization and chain integrity verification.
